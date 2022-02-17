@@ -1,0 +1,9 @@
+Currently working on a movement system. I do code, however you also do code. While I will be doing code I won't do it much unless its for weapons. If you have recieved this then I am near the end of the Movement system and I will leave you to figure shit out. Please comment your code so i can read shit,m thanks
+
+ThirdParty are prototype materials, use them for prototyping.
+
+Scripts are, scripts 
+Standard is standard unity assets
+maps is maps
+idfk what samplescene is but its useless and keeps coming back so if you can remove it please do
+scenes is scense, again, get rid of it its useless
